@@ -82,4 +82,4 @@ Power BI Desktop · DAX · Power Query (M) · CSV
 
 👤 Autor
 
-Proyecto desarrollado por Diego · Análisis de datos inmobiliarios.
+Proyecto desarrollado por Diego Tenorio Martinez.
