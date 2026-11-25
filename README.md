@@ -61,8 +61,6 @@ hecho_ventas_propiedades.csv
 dim_propiedades.csv
 dim_clientes.csv
 
-⚠️ Las rutas originales apuntan a C:\Users\diego\Downloads\. Para reproducir el reporte, coloca los CSV en una carpeta local y actualiza el origen en Transformar datos → Configuración de origen de datos (o parametriza la ruta).
-
 ▶️ Cómo usarlo
 Instala Power BI Desktop (Windows).
 Clona este repositorio y abre PBI_Andes_Capital_Real_Estate.pbix.
